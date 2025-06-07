@@ -1,18 +1,17 @@
 # Voice_Recognition-Translation
 Using this code, it can recognise the language and give the text u tell in ur language and u can also ask the language to be translated and voice also generated and u can also copy the text of the language.
 
+![voice](https://github.com/user-attachments/assets/dec36d1f-c5c3-4911-b2d6-2afc59bc6453)
+
+
 🌐🎤 Multilingual Voice Translator
 
 A browser-based voice recognition and translation web app that:
 
 • Listens to your speech in Indian languages (like Telugu, Hindi, etc.)
-
 • Displays your spoken words as text
-
 • Translates them into a target language
-
 • Speaks out the translated text
-
 • Supports dark mode, clipboard copy, and is fully client-side
 
 🧠 Features
