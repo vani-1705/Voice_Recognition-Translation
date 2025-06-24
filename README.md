@@ -1,5 +1,14 @@
 # Voice_Recognition-Translation
-Using this code, it can recognise the language and give the text u tell in ur language and u can also ask the language to be translated and voice also generated and u can also copy the text of the language.
+# PROJECT LOGIC:
+-In this project user should use data and access the voice recognition then page can recognise voice.
+-But languages are from india only u can select in this code.
+-User should select the language and press start speaking button and talk anything language u selected.
+-Then the matter what u talked will shown below in selected language.
+-If u want u can also translate that matter in that language and u can also hear AI voice in that language.
+-The translated language text also shown below u can also copy that text.
+
+# PROJECT IDEA:
+This idea came from seeing apps voice recording option some apps only translate same language u say and some apps translate the language u wanted but in this text,voice u said same and wanted translation language and texts.
 
 ![voice](https://github.com/user-attachments/assets/dec36d1f-c5c3-4911-b2d6-2afc59bc6453)
 
